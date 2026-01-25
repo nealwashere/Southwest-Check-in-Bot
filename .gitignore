@@ -1,0 +1,11 @@
+# Compiled binary
+southwest-bot
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
