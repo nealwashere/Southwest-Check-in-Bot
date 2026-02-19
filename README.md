@@ -1,5 +1,9 @@
 # Southwest Check-in Bot
 
+> [!WARNING]
+> **Deprecated** — Southwest Airlines switched to assigned seating in 2026, making this tool obsolete. The open boarding system this bot was designed for no longer exists.
+
+
 A command-line tool written in Go that automatically checks in to Southwest Airlines flights exactly 24 hours before departure.
 
 ## Why?
